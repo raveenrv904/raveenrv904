@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm the founder of **[TheNetSense](https://thenets
 I strive to create seamless, performant, and user-friendly digital experiences.
 
 ## 📊 Github Stats
-![raveenrv904's Stats](https://github-readme-stats.vercel.app/api?username=raveenrv904&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![raveenrv904's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raveenrv904&theme=vue-dark&hide_border=true)
+![raveenrv904's Stats](https://github-readme-stats.vercel.app/api?username=raveenrv904&theme=vue-dark&show_icons=true&hide_border=true&count_private=true).
+![raveenrv904's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raveenrv904&theme=vue-dark&hide_border=true).
 ![raveenrv904's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raveenrv904&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Projects and Repositories
