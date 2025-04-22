@@ -10,6 +10,8 @@ I strive to create seamless, performant, and user-friendly digital experiences.
 
 Check out some of my work and projects in the [repositories](https://github.com/raveenrv904?tab=repositories) section.
 
+![raveenrv904's Stats](https://github-readme-stats.vercel.app/api?username=raveenrv904&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ### 🚀 Skills
 
 - **Tech Stack:** Next.Js, TypeScript, MERN Stack
